@@ -1772,7 +1772,7 @@ LOAD C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauf
                 0x000008ef       0x31 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/lib\libSENSIT_SDK_V2.0.0.a(modulation.o)
 OUTPUT(C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/bin/sensit.elf elf32-littlearm)
 
-.debug_info     0x00000000     0x2589
+.debug_info     0x00000000     0x258a
  .debug_info    0x00000000      0x3cb C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/error.o
  .debug_info    0x000003cb      0x1e9 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/button.o
  .debug_info    0x000005b4      0x2fa C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/battery.o
@@ -1784,7 +1784,7 @@ OUTPUT(C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lema
  .debug_info    0x00001430      0x364 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/ltr329.o
  .debug_info    0x00001794      0x4f3 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/fxos8700.o
  .debug_info    0x00001c87      0x2f3 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/discovery.o
- .debug_info    0x00001f7a      0x60f C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/main.o
+ .debug_info    0x00001f7a      0x610 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/main.o
 
 .debug_abbrev   0x00000000      0xe0a
  .debug_abbrev  0x00000000      0x133 C:/Users/camil/OneDrive/Bureau/hei-2018-2019-lab-sens-it-herve-ravel-lemauff-1/sensit-sdk-v2.0.0/sdk/obj/error.o
