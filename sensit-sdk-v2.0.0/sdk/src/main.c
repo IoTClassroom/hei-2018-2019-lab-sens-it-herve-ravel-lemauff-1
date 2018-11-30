@@ -19,7 +19,7 @@
 #include "fxos8700.h"
 #include "discovery.h"
 
-#define MEASUREMENT_PERIOD                 60
+#define MEASUREMENT_PERIOD                 59
 
 
 /******* GLOBAL VARIABLES ******************************************/
